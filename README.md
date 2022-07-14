@@ -5,6 +5,13 @@ Here is a explanation of my customized MIT license. And here has an example.
 
 Well, I haven't thought out. And I don't know if it's welcomed. So I just call it: `TTPeter's MIT-like License`.
 
+## Features
+
+- No free commercial use, but suppose to be cheap
+- Removed by buying a replacement license and may have a place to validify
+- Permit selling of modified version with at least {said percentage} difference
+- all other rights and benefits a MIT license will give to developers and others
+
 ## Projects I applied it and as examples
 
 - [ThreadKiller](https://github.com/TTStudio-of-TTPeter/ThreadKiller)
@@ -27,14 +34,17 @@ If you like my work, please tell it to people around you or use it for your own 
 
 ```
 MIT-like License
-Unlike MIT license, you cannot sell the copies. But you still have other 
-rights a MIT license will give.
-If you want to use commercially, sell only modified versions with at least 
-30% difference or contact through project's email to buy a MIT license. 
-Otherwise, you should redistribute them for free.
 
-Copyright (c) 2022 TTStudio-of-TTPeter
-Email: liuljwtt@foxmail.com
+[Project's Contact Email: xxx@xxx.com]
+
+Copyright (c) yyyy {xxxxxx}
+
+Unlike MIT license, commercial uses aren't allowed for free. But you still 
+have other rights a MIT license will give.
+If you want to use commercially, sell only modified versions with at least 
+{xx}% difference or contact through project's email to buy a/an {xxx} license
+for any commerical use. Otherwise, you should distribute your products for
+free, without charging for anything.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -55,7 +65,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-To apply it, **change** percentage for judging, owner of copyright and email **to your own**!
+To apply it, **change** all `{xxx}` **to your own**! (Remove the brackets`{}[]` and content in `[]` is optional; `yyyy` represent the year.)
 
 If you opened the project and want only specific version to apply this license, see that `LICENSE` file in my `ThreadKiller` Project. That would be a good example!
+
+The Template file is `Template/LICENSE`.
+
+
 
