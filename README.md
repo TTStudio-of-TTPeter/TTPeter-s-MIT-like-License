@@ -12,6 +12,9 @@ Well, I haven't thought out. And I don't know if it's welcomed. So I just call i
 - Permit selling of modified version with at least {said percentage} difference
 - all other rights and benefits a MIT license will give to developers and others
 
+Besides, for the term 'sublicense', it's referring to sublicense with same protocol.
+Anyone should not sublicense with other protocol unless he get a replacement license from the project owner.
+
 ## Projects I applied it and as examples
 
 - [ThreadKiller](https://github.com/TTStudio-of-TTPeter/ThreadKiller)
